@@ -1,0 +1,95 @@
+
+.Box{
+    position: fixed;
+    width: 100%;
+    height: 60px;
+    left: 0px;
+    top: 0px;
+    
+    background: #EA3C53;
+    z-index: 1;
+    /* overflow-x: hidden; */
+    
+}
+
+.ccdt{
+    position: absolute;
+width: 180px;
+height: 80px;
+left: 60px;
+top: 3px;
+}
+
+
+.logot{
+position: absolute;
+width: 49px;
+height: 49px;
+left: 9px;
+top: 6px;
+}
+
+
+/* Home */
+
+.hometab{
+position: absolute;
+width: 73px;
+height: 38px;
+left: 80%;
+top: 13px;
+
+font-family: AR BERKLEY;
+font-style: normal;
+font-weight: 500;
+font-size: 25px;
+line-height: 38px;
+
+color: #FFFFFF;
+}
+
+
+/* Costomize */
+
+.costomizetab{
+position: absolute;
+width: 114px;
+height: 38px;
+left: 88%;
+top: 13px;
+
+font-family: AR BERKLEY;
+font-style: normal;
+font-weight: 500;
+font-size: 25px;
+line-height: 38px;
+
+color: #FFFFFF;
+}
+
+.NavigationItems {
+    
+    /* padding: 10px; */
+    list-style: none;
+    display: flex;
+    flex-flow: column;
+   -ms-flex-item-align: auto;
+    height: 100%;
+    position: absolute;
+
+left:75%;
+    padding-right: 15px;
+font-family: AR BERKLEY;
+font-style: normal;
+font-weight: 500;
+font-size: 25px;
+line-height: 38px;
+
+color: #FFFFFF;
+}
+
+@media (min-width: 500px) {
+    .NavigationItems {
+        flex-flow: row;
+    }
+}

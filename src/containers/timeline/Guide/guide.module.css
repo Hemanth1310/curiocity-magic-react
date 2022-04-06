@@ -1,0 +1,171 @@
+/* Rectangle 706 */
+
+.frame{
+    position: absolute;
+    width:80%;
+    left: 17%;
+    top: 80px;
+    height: 1000px;
+    /* 
+    border: 1px solid #C3C3C3;
+    box-sizing: border-box;
+    filter: drop-shadow(4px 4px 10px rgba(196, 196, 196, 0.1));
+    border-radius: 10px;
+    background-color: #FFFFFF; */
+    }
+    
+    
+    .frame end{
+    /* position: absolute; */
+    width: 100px;
+    /* height: 80%; */
+    left:93%;
+    background: #EA3C53;
+    border: 1px solid #C3C3C3;
+    /* box-sizing: content-box; */
+    box-shadow: 4px 4px 10px rgba(196, 196, 196, 0.1);
+    border-radius: 0px 10px 10px 0px;
+    }
+    
+    .imgHubli{
+        position: absolute;
+    left:20%;
+    top: 5%;
+    border-radius: 100%;
+    /* background: url(apnahubli.png); */
+    border: 1px solid #EA3C53;
+    box-sizing: border-box;
+    }
+    
+    .sidebar{
+        position: fixed;
+        width: 16%;
+        height: 100%;
+        border: 1px solid #C3C3C3;
+        left:0px;
+        top :59px;
+        box-shadow: 0 2px 3px #ccc;
+        filter: drop-shadow(4px 4px 10px rgba(196, 196, 196, 0.1));
+        box-sizing: border-box;
+        background-color: #FFFFFF;
+    }
+    
+    .sidy{
+        position: relative;
+        top: 30%;
+    }
+    
+    
+    .wel{
+        position: absolute;
+        width: 98%;
+        height: 200px;
+        /* left: 23px; */
+        top: 0px;
+        font-family: AR BERKLEY;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 30px;
+        float: left;
+       
+        }
+        
+    .fet{
+        color:white;
+        font-weight: bold;
+        font-style: normal;
+        /* font-weight: 500; */
+        font-size: 18px;
+    }
+    
+    
+    
+    /* image 37 */
+    
+    .img{
+    
+        position: absolute;
+        width: 383px;
+        height: 280px;
+        left: 20px;
+        top: 10px;
+    }
+    
+    
+    
+    
+    
+    /* Eiffel Tower , Paris */
+    
+    .onImg{
+    position: absolute;
+    width: 138px;
+    height: 30px;
+    left: 254px;
+    top: 495px;
+    
+    font-family: Annie Use Your Telescope;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 21px;
+    line-height: 30px;
+    
+    color: #FFFFFF;
+    
+    }
+    
+    /* Our host was great. I would definitely go again there was a small problem with the meeting place. Apparently they changed the meeting point and we weren’t informed */
+    
+    .discription{
+    /* position: absolute; */
+    width: 700px;
+    height: 100px;
+    left: 435px;
+    top: 100px;
+    overflow: hidden;
+    font-family: MS Reference Sans Serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 27px;
+    text-align: left;
+    color: #000000;
+    
+    }
+    
+    /* Reaching the top */
+    
+    .title{
+    position: absolute;
+    
+    left: 430px;
+    top: 20px;
+    
+    font-family: AR BERKLEY;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 27px;
+    line-height: 41px;
+    /* identical to box height */
+    
+    
+    color: #000000;
+    
+    }
+    
+    /* Shared By: Hemanth */
+    
+    .author{
+    position: absolute;
+    width: 183px;
+    height: 27px;
+    left: 430px;
+    top: 200px;
+    
+    font-family: AR BERKLEY;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 21px;
+    line-height: 27px;
+    }
+    

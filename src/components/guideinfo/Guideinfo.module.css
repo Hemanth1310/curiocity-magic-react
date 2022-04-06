@@ -1,0 +1,141 @@
+.outer{
+    top:0%;
+   
+        
+        /* 
+        border: 1px solid #C3C3C3;
+        box-sizing: border-box;
+        filter: drop-shadow(4px 4px 10px rgba(196, 196, 196, 0.1));
+        border-radius: 10px;
+        background-color: #FFFFFF; */
+        
+}
+
+
+.frame1{
+    width: 100%;
+   height: 200px ;
+    border: 1px solid #eee;
+    box-shadow: 0 2px 3px #ccc;
+    /* padding:10px; */
+    box-sizing: border-box;
+    border-radius: 8px;
+
+}
+
+.end{
+    position: -webkit-sticky;
+    /* right: 0px;
+    top: 0px; */
+    padding: 10px; 
+    width: auto;
+    /* height: 100px; */
+    margin: 10px;
+    /* top:-20px;
+  left:-20px;
+  right:-20px;
+  bottom:-20px; */
+    /* margin: 10px; */
+    /* margin: 0 auto; */
+    float: right;
+    background: #EA3C53;
+    border: 1px solid #C3C3C3;
+    box-sizing: border-box;
+    box-shadow: 4px 4px 10px rgba(196, 196, 196, 0.1);
+    border-radius: 0px 8px 8px 0px;
+    /* margin: 0px; */
+    color: white;
+    /* transform: translate(-50%, -50%); */
+    }    
+
+
+.img{
+
+   /* position: absolute; */
+    float:left;
+    /* height:100%; */
+    width: 240px;
+    height: 140px;
+    margin: 10px;
+}
+
+.frame2{
+    position: relative;
+    float:left;
+    height:100%;
+    padding:10px;
+    /* border: 1px solid #C3C3C3; */
+
+}
+
+
+
+/* Eiffel Tower , Paris */
+
+.onImg{
+
+width: 138px;
+height: 30px;
+
+
+font-family: Annie Use Your Telescope;
+font-style: normal;
+font-weight: normal;
+font-size: 21px;
+line-height: 30px;
+
+color: #FFFFFF;
+
+}
+
+/* Our host was great. I would definitely go again there was a small problem with the meeting place. Apparently they changed the meeting point and we weren’t informed */
+
+.discription{
+position: relative;
+/* display: inline; */
+height: 100px;
+width: 1000px;
+/* overflow: hidden; */
+font-family: MS Reference Sans Serif;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 27px;
+text-align: left;
+/* text-justify: left; */
+color: #5c5454;
+text-overflow: ellipsis;
+/* white-space: nowrap;  */
+/* clip-path: inset(100%);
+clip: rect(10px, 10px, 10px, 10px); */
+flex:1;
+
+}
+
+/* Reaching the top */
+
+.title{
+margin: 0%;
+font-family: AR BERKLEY;
+font-style: normal;
+font-weight: 500;
+font-size: 22px;
+line-height: 41px;
+/* identical to box height */
+text-align: left;
+color: #000000;
+
+}
+
+/* Shared By: Hemanth */
+
+.author{
+    /* left :20%;
+position: relative; */
+font-family: AR BERKLEY;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 27px;
+text-align: left;
+}    

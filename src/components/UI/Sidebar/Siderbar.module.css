@@ -1,0 +1,27 @@
+.sidy{
+    position: relative;
+    top: 30%;
+    color: #EA3C53;
+    height: 10px;
+}
+
+.fet{
+    color: white;
+    font-weight: bold;
+}
+
+.ded{
+    opacity: 100%;
+}
+
+.ded :hover,
+.ded:active,
+.ded.active {
+    opacity: 100%;
+    /* background-color: #fdc6cd; */
+    background-color: #EA3C53;
+   
+    color: white;
+    
+  }
+  
